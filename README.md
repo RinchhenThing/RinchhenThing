@@ -1,24 +1,54 @@
-## 👋 About Me
-
-Hi, I'm Rinchhen Thing — an IT Security enthusiast and Networking student, currently pursuing my Bachelor's in Computer Networking and IT Security. Professionally, I'm a DevOps Engineer, passionate about building secure, automated, and scalable systems.
-
-**Top Skills & Technologies:**
-- Bash & Python scripting
-- Docker, Kubernetes (K8s), and containerization
-- AWS & cloud infrastructure
-- VPS servers & automation
-- CI/CD (GitHub Actions, Circle CI)
-- Security fundamentals
-
-**Featured Project:**
-- [mangoMan](https://github.com/RinchhenThing/mangoMan): One of my favorite personal projects, showcasing automation and security best practices.
-
-**Bio/Tagline:**  
-IT Security enthusiast and Networking student focused on building secure, automated, and scalable systems. Currently learning DevOps, cloud deployment, and cybersecurity fundamentals.
-
-**Connect with me:**
-- [Docker Hub](https://hub.docker.com/u/rinchhen)
-- [LinkedIn](https://www.linkedin.com/in/rinchhen-thing-764814311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<h1 align="center">👋 Hey, I'm <a href="https://github.com/RinchhenThing">Rinchhen Thing</a></h1>
+<h3 align="center">🔒 DevOps Engineer | 🖧 Networking & IT Security Student | ☁️ Cloud Enthusiast</h3>
 
 ---
-Let's collaborate on secure and scalable systems!
+
+### 🚀 About Me
+I’m an IT Security enthusiast and Networking student, currently pursuing my **Bachelor’s in Computer Networking & IT Security**.  
+By profession, I work as a **DevOps Engineer**, passionate about building **secure, automated, and scalable systems** that bridge development and operations.
+
+🧠 **Currently learning:** Cloud Security, Infrastructure as Code, and Advanced CI/CD pipelines  
+💡 **Interests:** Cybersecurity, Automation, IoT, and Cloud Engineering  
+⚡ **Fun fact:** I love breaking things just to make them better again 😉
+
+---
+
+### 🛠️ Tech Stack & Skills
+#### 💻 Programming & Scripting
+`Python` • `Bash` • `C/C++`
+
+#### 🐳 DevOps & Cloud
+`Docker` • `Kubernetes (K8s)` • `AWS` • `VPS` • `CI/CD (GitHub Actions, CircleCI)`  
+
+#### 🔐 Security & Networking
+`Network Security` • `Firewalls` • `Linux Administration` • `System Hardening`
+
+---
+
+### 🌟 Featured Project
+🎯 **[mangoMan](https://github.com/RinchhenThing/mangoMan)**  
+> A lightweight, Linux-centric automation project inspired by secure DevOps practices — combining Bash, SSH, and CI/CD to streamline remote operations.
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/rinchhen-thing-764814311" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rinchhen%20Thing-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://hub.docker.com/u/rinchhen" target="_blank">
+    <img src="https://img.shields.io/badge/Docker%20Hub-rinchhen-2496ED?style=for-the-badge&logo=docker" alt="Docker Hub"/>
+  </a>
+</p>
+
+---
+
+### 🧩 My Motto
+> *“Secure systems aren’t built by chance — they’re built by design.”*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RinchhenThing&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinchhenThing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
