@@ -51,8 +51,8 @@ Low-level hardware-software integration using C/C++ to manage real-time sensor d
 
 ### SYSTEM STATS
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinchhenThing&show_icons=true&theme=transparent&hide_border=true&text_color=333" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinchhenThing&layout=compact&theme=transparent&hide_border=true&text_color=333" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RinchhenThing&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinchhenThing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
