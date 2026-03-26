@@ -49,11 +49,12 @@ Low-level hardware-software integration using C/C++ to manage real-time sensor d
 
 ---
 
+
 ### SYSTEM STATS
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinchhenThing&show_icons=true&theme=tokyonight&v=2" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinchhenThing&layout=compact&theme=tokyonight&v=2" alt="Top Languages" height="150"/>
+  <img src="https://metrics.lecoq.io/RinchhenThing?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Asia%2FKathmandu" alt="GitHub Metrics" width="100%"/>
 </p>
+
 
 ---
 
