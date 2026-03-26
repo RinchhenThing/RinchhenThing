@@ -49,12 +49,13 @@ Low-level hardware-software integration using C/C++ to manage real-time sensor d
 
 ---
 
-
-### SYSTEM STATS
-<p align="left">
-  <img src="https://metrics.lecoq.io/RinchhenThing?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Asia%2FKathmandu" alt="GitHub Metrics" width="100%"/>
-</p>
-
+### SYSTEM STATS & TECHNICAL REPUTATION
+| Metric | Status |
+| :--- | :--- |
+| **GitHub Productivity** | ![Commits](https://img.shields.io/github/commit-activity/m/RinchhenThing?style=flat-square&color=2496ED&label=Monthly%20Activity) |
+| **Infrastructure Repos** | ![Repos](https://img.shields.io/github/directory-stats-count/RinchhenThing?style=flat-square&color=333&label=Total%20Projects) |
+| **Cloud Proficiency** | ![AWS](https://img.shields.io/badge/AWS-Certified-orange?style=flat-square) |
+| **System Environment** | ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=flat-square&logo=linux) |
 
 ---
 
