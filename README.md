@@ -1,60 +1,63 @@
-# Rinchhen Thing
-## Network & Security Engineer | DevOps Practitioner
+# RINCHHEN THING
+## NETWORK & SECURITY ENGINEER | DEVOPS
 
-I am a Computer Networking and IT Security student and a DevOps Engineer focused on building secure, automated, and resilient infrastructure. My expertise lies at the intersection of Layer 2/3 networking, Cloud Architecture (AWS), and DevSecOps automation.
+I am a Computer Networking and IT Security student and DevOps practitioner. My work focuses on the intersection of Layer 2/3 infrastructure, Cloud Architecture, and secure automation.
 
 ---
 
-### Professional Profile
-* **Current Focus:** Advanced Network Security and Infrastructure as Code (IaC).
+### PROFESSIONAL SUMMARY
+* **Primary Focus:** Network Infrastructure, System Hardening, and Cloud Security.
 * **Education:** BSc (Hons) Computer Networking & IT Security, London Metropolitan University.
-* **Experience:** Infrastructure automation, CI/CD pipeline security, and enterprise network troubleshooting.
-* **Philosophy:** Security by design; automation by necessity.
+* **Core Philosophy:** Security is a design requirement, not an afterthought.
 
 ---
 
-### Technical Proficiencies
+### TECHNICAL STACK
 
-#### Networking & Security
-* **Infrastructure:** IPv4 Subnetting, VLAN Segmentation, Routing & Switching.
-* **Security:** Firewall Management, VPN Tunneling, SSH Key Infrastructure, System Hardening.
-* **Analysis:** Packet Inspection (Wireshark), Network Discovery (CDP, LLDP), Traffic Analysis.
+#### NETWORKING & INFRASTRUCTURE
+* **Protocols & Standards:** IPv4, VLANs, Routing/Switching, CDP, LLDP.
+* **Security:** Firewalls, VPN Tunneling, SSH Key Infrastructure, System Hardening.
+* **Analysis:** Wireshark, Packet Inspection, Traffic Analysis.
 
-#### Cloud & DevOps
-* **AWS:** VPC Design, EC2, S3, Cloud Architecting & Operations.
-* **Orchestration:** Docker, Kubernetes (K8s).
-* **Automation:** Jenkins, GitHub Actions, CircleCI.
+#### CLOUD & VIRTUALIZATION
+* **AWS:** VPC Design, EC2, S3 (Practitioner to Architecting).
+* **Containerization:** Docker, Kubernetes (K8s).
+* **Environment:** Linux (Ubuntu/Debian), WSL Administration.
 
-#### Systems & Scripting
-* **OS:** Linux (Ubuntu/Debian), WSL Administration.
-* **Languages:** Python (Network Automation), Bash, C++, Java.
-* **Tools:** Neovim, Git, Cisco Packet Tracer.
+#### AUTOMATION & DEVELOPMENT
+* **Scripting:** Python (Network Automation), Bash, C/C++.
+* **CI/CD:** GitHub Actions, Jenkins, CircleCI.
+* **Tooling:** Neovim, Git, Cisco Packet Tracer.
 
 ---
 
-### Featured Projects
+### FEATURED REPOS
 
 #### [mangoMan](https://github.com/RinchhenThing/mangoMan)
-A Linux-centric automation tool developed in Python and Bash. It streamlines remote operations through secure SSH key management and automated command execution, mimicking the logic of remote CI/CD runners.
+A Linux-centric tool for SSH automation and remote execution. Designed to streamline administrative tasks through secure private key management.
 
-#### [Obstacle Avoidance System](https://github.com/RinchhenThing/ObstacleAvoidance)
-Low-level C/C++ development for hardware-software integration, utilizing sensors and actuators for real-time tactical decision-making in autonomous units.
-
----
-
-### Certifications
-* AWS Certified Solutions Architect (Associate Level - Academy)
-* AWS Cloud Operations & Security Foundations
-* AWS Cloud Practitioner
+#### [Obstacle Avoidance Car](https://github.com/RinchhenThing/ObstacleAvoidance)
+Low-level hardware-software integration using C/C++ to manage real-time sensor data and tactical decision-making.
 
 ---
 
-### Contact & Connectivity
+### CERTIFICATIONS
+* AWS Academy Graduate - Cloud Architecting
+* AWS Academy Graduate - Cloud Security Foundations
+* AWS Academy Graduate - Cloud Operations
+* AWS Certified Cloud Practitioner
+
+---
+
+### SYSTEM STATS
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RinchhenThing&show_icons=true&theme=transparent&hide_border=true&text_color=333" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinchhenThing&layout=compact&theme=transparent&hide_border=true&text_color=333" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+### CONNECTIVITY
 * **LinkedIn:** [linkedin.com/in/rinchhen-thing-764814311](https://www.linkedin.com/in/rinchhen-thing-764814311)
 * **Email:** thingrinchhen@gmail.com
 * **Docker Hub:** [hub.docker.com/u/rinchhen](https://hub.docker.com/u/rinchhen)
-
----
-
-### Statistics
-![Rinchhen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RinchhenThing&show_icons=true&theme=transparent&hide_border=true&text_color=333)
