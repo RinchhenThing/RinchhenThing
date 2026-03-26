@@ -1,54 +1,60 @@
-<h1 align="center">Hey, I'm <a href="https://github.com/RinchhenThing">Rinchhen Thing</a></h1>
-<h3 align="center"> DevOps Engineer | Networking & IT Security Student | Cloud Enthusiast</h3>
+# Rinchhen Thing
+## Network & Security Engineer | DevOps Practitioner
+
+I am a Computer Networking and IT Security student and a DevOps Engineer focused on building secure, automated, and resilient infrastructure. My expertise lies at the intersection of Layer 2/3 networking, Cloud Architecture (AWS), and DevSecOps automation.
 
 ---
 
-###  About Me
-I’m an IT Security enthusiast and Networking student, currently pursuing my **Bachelor’s in Computer Networking & IT Security**.  
-By profession, I work as a **DevOps Engineer**, passionate about building **secure, automated, and scalable systems** that bridge development and operations.
-
- **Currently learning:** Cloud Security, Infrastructure as Code, and Advanced CI/CD pipelines  
- **Interests:** Cybersecurity, Automation, IoT, and Cloud Engineering  
- **Fun fact:** I love breaking things just to make them better again 
+### Professional Profile
+* **Current Focus:** Advanced Network Security and Infrastructure as Code (IaC).
+* **Education:** BSc (Hons) Computer Networking & IT Security, London Metropolitan University.
+* **Experience:** Infrastructure automation, CI/CD pipeline security, and enterprise network troubleshooting.
+* **Philosophy:** Security by design; automation by necessity.
 
 ---
 
-### Tech Stack & Skills
-#### Programming & Scripting
-`Python` • `Bash` • `C/C++`
+### Technical Proficiencies
 
-#### DevOps & Cloud
-`Docker` • `Kubernetes (K8s)` • `AWS` • `VPS` • `CI/CD (GitHub Actions, CircleCI)`  
+#### Networking & Security
+* **Infrastructure:** IPv4 Subnetting, VLAN Segmentation, Routing & Switching.
+* **Security:** Firewall Management, VPN Tunneling, SSH Key Infrastructure, System Hardening.
+* **Analysis:** Packet Inspection (Wireshark), Network Discovery (CDP, LLDP), Traffic Analysis.
 
-#### Security & Networking
-`Network Security` • `Firewalls` • `Linux Administration` • `System Hardening`
+#### Cloud & DevOps
+* **AWS:** VPC Design, EC2, S3, Cloud Architecting & Operations.
+* **Orchestration:** Docker, Kubernetes (K8s).
+* **Automation:** Jenkins, GitHub Actions, CircleCI.
 
----
-
-### Featured Project
-**[mangoMan](https://github.com/RinchhenThing/mangoMan)**  
-> A lightweight, Linux-centric automation project inspired by secure DevOps practices — combining Bash, SSH, and CI/CD to streamline remote operations.
-
----
-
-### Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/rinchhen-thing-764814311" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rinchhen%20Thing-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://hub.docker.com/u/rinchhen" target="_blank">
-    <img src="https://img.shields.io/badge/Docker%20Hub-rinchhen-2496ED?style=for-the-badge&logo=docker" alt="Docker Hub"/>
-  </a>
-</p>
+#### Systems & Scripting
+* **OS:** Linux (Ubuntu/Debian), WSL Administration.
+* **Languages:** Python (Network Automation), Bash, C++, Java.
+* **Tools:** Neovim, Git, Cisco Packet Tracer.
 
 ---
 
-### 🧩 My Motto
-> *“Secure systems aren’t built by chance — they’re built by design.”*
+### Featured Projects
+
+#### [mangoMan](https://github.com/RinchhenThing/mangoMan)
+A Linux-centric automation tool developed in Python and Bash. It streamlines remote operations through secure SSH key management and automated command execution, mimicking the logic of remote CI/CD runners.
+
+#### [Obstacle Avoidance System](https://github.com/RinchhenThing/ObstacleAvoidance)
+Low-level C/C++ development for hardware-software integration, utilizing sensors and actuators for real-time tactical decision-making in autonomous units.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinchhenThing&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinchhenThing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+### Certifications
+* AWS Certified Solutions Architect (Associate Level - Academy)
+* AWS Cloud Operations & Security Foundations
+* AWS Cloud Practitioner
+
+---
+
+### Contact & Connectivity
+* **LinkedIn:** [linkedin.com/in/rinchhen-thing-764814311](https://www.linkedin.com/in/rinchhen-thing-764814311)
+* **Email:** thingrinchhen@gmail.com
+* **Docker Hub:** [hub.docker.com/u/rinchhen](https://hub.docker.com/u/rinchhen)
+
+---
+
+### Statistics
+![Rinchhen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RinchhenThing&show_icons=true&theme=transparent&hide_border=true&text_color=333)
